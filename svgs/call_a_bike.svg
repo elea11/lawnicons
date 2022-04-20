@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="stadtrad.svg"
+   sodipodi:docname="call_a_bike.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="77.749998"
-     inkscape:cy="85.499998"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="194.80791"
+     inkscape:cy="203.64675"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -49,38 +49,6 @@
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="16.933333,35.510297"
-       orientation="-1,0"
-       id="guide1628"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="23.283333,39.257552"
-       orientation="-1,0"
-       id="guide1630"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="27.516666,35.464986"
-       orientation="-1,0"
-       id="guide1632"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="33.866666,37.670052"
-       orientation="-1,0"
-       id="guide1634"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="31.749999,33.866667"
-       orientation="0,-1"
-       id="guide1796" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -115,6 +83,10 @@
            id="g26203"
            transform="matrix(0.62229901,0,0,0.62229901,60.453294,158.76186)"
            style="stroke:#000000;stroke-opacity:1">
+          <path
+             id="path18300"
+             style="fill:none;stroke:#000000;stroke-width:32.6324;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 220.05096,395.86347 c 31.66418,-0.0791 31.66418,47.67817 0,47.67817 h -40.30148 40.30148 c 31.5201,0 31.66418,50.30606 0,50.21866 l -40.24843,-0.11108 -0.11423,-97.68495 z m -147.658513,0 c 0,0 19.709342,0.15709 33.925913,0.15709 14.21658,0 30.69488,10.75429 30.69488,28.11992 0,17.36562 1e-5,27.12594 0,42.25842 -2e-5,15.13248 -16.27653,26.78462 -30.6141,26.78462 -14.337569,0 -34.006693,0 -34.006693,0 z" />
           <g
              id="path2"
              transform="matrix(1.2822111,0,0,1.3005752,-45.197116,-233.2988)"
@@ -124,14 +96,6 @@
                style="fill:none;stroke:#000000;stroke-width:25.2697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                d="m 86.239859,632.96252 h 50.974651 m -1.29871,99.35199 -25.97433,-99.02732 m 119.80678,19.48075 -69.8061,79.87115 H 64.811009 l 52.922761,-63.31252 m 141.88505,73.05289 -43.18241,-128.89779 h -20.77946 m 14.02317,136.00619 a 48.917561,48.917561 0 0 0 53.74585,43.3777 48.917561,48.917561 0 0 0 43.53638,-53.7629 48.917561,48.917561 0 0 0 -49.05089,-43.80259 m -150.46115,41.96274 a 48.917561,48.917561 0 0 1 -43.552731,53.60431 48.917561,48.917561 0 0 1 -53.76285,-43.53628 48.917561,48.917561 0 0 1 38.87203,-53.04376" />
           </g>
-          <path
-             id="path1995"
-             style="fill:none;stroke:#000000;stroke-width:32.6323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 84.672957,445.83162 H 130.3583 m 0,-49.96828 v 97.89705 M 84.672957,395.86334 v 97.89705" />
-          <path
-             id="path1995-9"
-             style="display:inline;fill:none;stroke:#000000;stroke-width:32.6323;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 185.83325,445.83165 h 45.68534 m 0,-49.96828 v 97.89705 m -45.68534,-97.89705 v 97.89705" />
         </g>
       </g>
     </g>
